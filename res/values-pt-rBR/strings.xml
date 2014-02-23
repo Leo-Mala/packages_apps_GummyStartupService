@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Conta CyanogenMod</string>
     <string name="next">Próximo</string>
     <string name="continue_label">Continuar</string>
     <string name="prev">Anterior</string>
@@ -43,30 +42,6 @@
     <string name="setup_current_date">Data atual</string>
     <string name="setup_current_time">Hora atual</string>
     <string name="setup_msg_no_network">Aviso: Você não poderá configurar suas contas</string>
-    <string name="cmaccount_setup_create_title">Criar uma conta CyanogenMod</string>
-    <string name="cmaccount_setup_login_title">Entrar na sua conta CyanogenMod</string>
-    <string name="cmaccount_setup_email_label">Email</string>
-    <string name="cmaccount_setup_email_unavailable_label">Email já registrado</string>
-    <string name="cmaccount_setup_email_invalid_label">Endereço de email inválido</string>
-    <string name="cmaccount_setup_password_label">Senha</string>
-    <string name="cmaccount_setup_password_create_label">Senha (mínimo de 8 caracteres)</string>
-    <string name="cmaccount_setup_password_mismatch_label">As senhas não coincidem!</string>
-    <string name="cmaccount_setup_password_invalid_label">Senha deve ter no mínimo 8 caracteres!</string>
-    <string name="cmaccount_setup_confirm_password_label">Confirmar senha</string>
-    <string name="cmaccount_setup_tos_label">Eu aceito os %1$stermos%2$s de serviço</string>
-    <string name="cmaccount_add_title">Adicionar uma conta CyanogenMod</string>
-    <string name="cmaccount_add_create_label">Uma conta CyanogenMod oferece acesso a seviços de valor agregado e funcionalidade para o seu dispositivo móvel rodando CyanogenMod.</string>
-    <string name="cmaccount_learn_more">Saiba mais\u2026</string>
-    <string name="cmaccount_password_changed_title">Senha Alterada</string>
-    <string name="cmaccount_password_changed_message">Favor entrar na sua conta CyanogenMod</string>
-    <string name="cmaccount_login_message">Entrando em CyanogenMod</string>
-    <string name="cmaccount_creating_profile_message">Criando seu perfil CyanogenMod</string>
-    <string name="cmaccount_login_error_title">Falha ao entrar</string>
-    <string name="cmaccount_login_error_message">Email ou senha inválida.</string>
-    <string name="cmaccount_server_error_title">Erro no servidor</string>
-    <string name="cmaccount_create_account_error_title">Erro ao criar a conta</string>
-    <string name="cmaccount_server_error_message">Um erro ocorreu na comunicação com o servidor. Favor tente novamente mais tarde.</string>
-    <string name="cmaccount_error_multiple_accounts">Somente um CyanogenMod é permitido em um dispositivo</string>
     <string name="sim_missing_summary" product="tablet">Você precisa consultar as instruções do cartão SIM que veio com o seu tablet.</string>
     <string name="sim_missing_summary" product="default">Você precisa consultar as instruções do cartão SIM que veio com o seu telefone.</string>
     <string name="google_account_summary">Você quer configurar uma conta Google?</string>

@@ -44,40 +44,6 @@
     <string name="setup_current_time">Huidige tyd</string>
     <string name="setup_msg_no_network">WAARSKUWING: Jy sal nie in staat wees om jou rekeninge op te stel nie</string>
 
-    <string name="cmaccount_setup_create_title">Skep \'n CyanogenMod rekening</string>
-    <string name="cmaccount_setup_login_title">Teken in op jou CyanogenMod rekening</string>
-    <string name="cmaccount_setup_email_label">EPos</string>
-    <string name="cmaccount_setup_email_unavailable_label">E-pos al geregistreer</string>
-    <string name="cmaccount_setup_email_invalid_label">Nie \'n geldige e-posadres</string>
-    <string name="cmaccount_setup_password_label">Wagwoord</string>
-    <string name="cmaccount_setup_password_create_label">Wagwoord (min 8 karakters)</string>
-    <string name="cmaccount_setup_password_mismatch_label">Wagwoorde stem nie ooreen nie!</string>
-    <string name="cmaccount_setup_password_invalid_label">Wagwoord moet ten minste 8 karakters wees!</string>
-    <string name="cmaccount_setup_confirm_password_label">Bevestig wagwoord</string>
-    <string name="cmaccount_setup_tos_label">Ek stem saam met die bepalings van die %1$sdiens%2$s</string>
-    <string name="cmaccount_add_title">Voeg \'n CyanogenMod rekening by</string>
-    <string name="cmaccount_add_create_label">\'n CyanogenMod rekening bied toegang tot toegevoegde waarde-dienste en funksies vir jou mobiele toestel op CyanogenMod</string>
-    <string name="cmaccount_learn_more">Leer meer\u2026</string>
-
-    <string name="cmaccount_update_required_title">Vereis opdateering </string>
-    <string name="cmaccount_update_required_text">Hierdie weergawe van CyanogenMod Rekening kan nie versoenbaar wees nie. Verander asb na die nuutste weergawe van CyanogenMod om versoenbaarheid te verseker.</string>
-    <string name="cmaccount_update_required_short">Hierdie weergawe kan onversoenbaar wees.</string>
-    <string name="cmaccount_checking_for_updates">Besig om te kyk vir opgraderings.</string>
-
-    <string name="cmaccount_password_changed_title">Wagwoord het verander</string>
-    <string name="cmaccount_password_changed_message">Asb teken aan jou CyanogenMod rekening in</string>
-
-    <string name="cmaccount_login_message">Meld by CyanogenMod aan</string>
-    <string name="cmaccount_creating_profile_message">Besig om jou CyanogenMod profiel te skep</string>
-
-    <string name="cmaccount_login_error_title">Aanmelding het misluk</string>
-    <string name="cmaccount_login_error_message">Ongeldig e-pos of wagwoord.</string>
-    <string name="cmaccount_server_error_title">Bediener fout</string>
-    <string name="cmaccount_create_account_error_title">Fout:Skep van rekening</string>
-    <string name="cmaccount_server_error_message">ŉ Fout het voorgekom terwyl in kommunikasie met die bediener. Probeer asseblief weer later.</string>
-
-    <string name="cmaccount_error_multiple_accounts">Slegs een CyanogenMod rekening word toegelaat per toestel</string>
-
     <string name="sim_missing_summary">Verwys na die SIM-kaart instruksies wat saam gekom het met jou toestel gekom het.</string>
     <string name="google_account_summary">Wil jy \'n Google-rekening opstel?</string>
     <string name="btn_google_account">Stel Google rekening op</string>

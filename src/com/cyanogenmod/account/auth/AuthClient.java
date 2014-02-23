@@ -671,8 +671,8 @@ public class AuthClient {
                     PendingIntent contentIntent = PendingIntent.getActivity(mContext, 0,
                             intent, 0);
                     Notification notification = new Notification.Builder(mContext)
-                            .setContentTitle(mContext.getText(R.string.cmaccount_password_changed_title))
-                            .setContentText(mContext.getText(R.string.cmaccount_password_changed_message))
+                            .setContentTitle(mContext.getText(R.string.password_changed_title))
+                            .setContentText(mContext.getText(R.string.password_changed_message))
                             .setSmallIcon(R.drawable.ic_dialog_alert)
                             .setLargeIcon(((BitmapDrawable) mContext.getResources().getDrawable(R.drawable.icon)).getBitmap())
                             .setContentIntent(contentIntent)

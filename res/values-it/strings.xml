@@ -15,8 +15,6 @@
      limitations under the License.
 -->
 <resources>
-
-    <string name="app_name">Account CyanogenMod</string>
     <string name="next">Succ.</string>
     <string name="continue_label">Continua</string>
     <string name="prev">Prec.</string>
@@ -46,34 +44,6 @@
     <string name="setup_msg_no_network">ATTENZIONE: Non sarai in grado di impostare i tuoi account</string>
     <string name="setup_warning_skip_wifi" product="tablet">ATTENZIONE: Potresti incorrere in costi aggiuntivi di connessione.\n\nLa configurazione del tablet potrebbe richiedere un significativo scambio di dati in rete.</string>
     <string name="setup_warning_skip_wifi" product="default">ATTENZIONE: Potresti incorrere in costi aggiuntivi di connessione.\n\nLa configurazione del telefono potrebbe richiedere un significativo scambio di dati in rete.</string>
-    <string name="cmaccount_setup_create_title">Crea il tuo Account CyanogenMod</string>
-    <string name="cmaccount_setup_login_title">Effettua il login al tuo Account CyanogenMod</string>
-    <string name="cmaccount_setup_email_label">Email</string>
-    <string name="cmaccount_setup_email_unavailable_label">Email già registrata</string>
-    <string name="cmaccount_setup_email_invalid_label">Email non valida</string>
-    <string name="cmaccount_setup_password_label">Password</string>
-    <string name="cmaccount_setup_password_create_label">Password (min. 8 caratteri)</string>
-    <string name="cmaccount_setup_password_mismatch_label">Le password non coincidono!</string>
-    <string name="cmaccount_setup_password_invalid_label">La password deve essere almeno 8 caratteri!</string>
-    <string name="cmaccount_setup_confirm_password_label">Conferma password</string>
-    <string name="cmaccount_setup_tos_label">Accetto i %1$stermini%2$s di servizio</string>
-    <string name="cmaccount_add_title">Aggiungi un account CyanogenMod</string>
-    <string name="cmaccount_add_create_label">Un Account CyanogenMod fornisce accesso a servizi a valore aggiunto e funzionalità per il tuo dispositivo mobile su cui è presente CyanogenMod.</string>
-    <string name="cmaccount_learn_more">Leggi\u2026</string>
-    <string name="cmaccount_update_required_title">Richiesto aggiornamento</string>
-    <string name="cmaccount_update_required_text">Questa versione di CyanogenMod Account può essere incompatibile.  Per favore aggiorna la tua versione di CyanogenMod per assicurare la compatibilità.</string>
-    <string name="cmaccount_update_required_short">Questa versione può essere incompatibile.</string>
-    <string name="cmaccount_checking_for_updates">Verifico gli aggiornamenti.</string>
-    <string name="cmaccount_password_changed_title">Password modificata</string>
-    <string name="cmaccount_password_changed_message">Per favore, effettua il login al tuo Account CyanogenMod</string>
-    <string name="cmaccount_login_message">Accesso in corso a CyanogenMod</string>
-    <string name="cmaccount_creating_profile_message">Creazione in corso del tuo profilo CyanogenMod</string>
-    <string name="cmaccount_login_error_title">Login non riuscito</string>
-    <string name="cmaccount_login_error_message">Email o password non valide.</string>
-    <string name="cmaccount_server_error_title">Errore del server</string>
-    <string name="cmaccount_create_account_error_title">Errore nella creazione dell\'account</string>
-    <string name="cmaccount_server_error_message">Errore nella comunicazione con il server. Per favore prova più tardi.</string>
-    <string name="cmaccount_error_multiple_accounts">È consentito un solo Account CyanogenMod per dispositivo</string>
     <string name="sim_missing_summary" product="tablet">Controlla sulle istruzioni per la SIM card accluse al tuo tablet.</string>
     <string name="sim_missing_summary" product="default">Controlla sulle istruzioni per la SIM card accluse al tuo telefono.</string>
     <string name="google_account_summary">Vuoi impostare un account Google?</string>

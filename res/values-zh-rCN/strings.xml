@@ -32,7 +32,7 @@
 
     <string name="setup_complete">设置完成</string>
     <string name="setup_complete_summary">恭喜您！您的设备已设置完毕。</string>
-    <string name="setup_welcome">欢迎来到 CyanogenMod</string>
+    <string name="setup_welcome">欢迎来到 Gummy</string>
     <string name="setup_welcome_summary">开始设置您的设备之前，请先选择语言并继续。</string>
     <string name="setup_cmaccount">设置您的 CyanogenMod 账户</string>
     <string name="setup_sim_missing">请插入 SIM 卡</string>

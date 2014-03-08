@@ -30,7 +30,7 @@
     <string name="dont_skip">Atlama</string>
     <string name="setup_complete">Kurulum tamamlandı</string>
     <string name="setup_complete_summary">Tebrikler! Cihazınız kullanmaya hazır.</string>
-    <string name="setup_welcome">CyanogenMod\'a Hoş Geldiniz</string>
+    <string name="setup_welcome">Gummy\'a Hoş Geldiniz</string>
     <string name="setup_welcome_summary">Cihazınızı kurmaya başlamak için kullandığınız dili seçin ve devam edin.</string>
     <string name="setup_cmaccount">CyanogenMod hesabınızı ayarlayın</string>
     <string name="setup_sim_missing">SIM kartı takın</string>

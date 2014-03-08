@@ -30,7 +30,7 @@
     <string name="dont_skip">Ikke hopp over</string>
     <string name="setup_complete">Konfigureringen er ferdig</string>
     <string name="setup_complete_summary">Gratulerer! Enheten er nå klar til bruk.</string>
-    <string name="setup_welcome">Velkommen til CyanogenMod</string>
+    <string name="setup_welcome">Velkommen til Gummy</string>
     <string name="setup_welcome_summary">For å komme i gang med å konfigurere enheten, velg språk og fortsett.</string>
     <string name="setup_cmaccount">Konfigurer din CyanogenMod-konto</string>
     <string name="setup_sim_missing">Sett inn SIM-kortet</string>

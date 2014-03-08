@@ -30,7 +30,7 @@
     <string name="dont_skip">Nie pomijaj</string>
     <string name="setup_complete">Konfiguracja zakończona</string>
     <string name="setup_complete_summary">Gratulacje! Twoje urządzenie jest gotowe do działania.</string>
-    <string name="setup_welcome">Witamy w CyanogenMod</string>
+    <string name="setup_welcome">Witamy w Gummy</string>
     <string name="setup_welcome_summary">Aby rozpocząć konfigurację urządzenia wybierz swój język i kontynuuj.</string>
     <string name="setup_cmaccount">Skonfiguruj konto CyanogenMod</string>
     <string name="setup_sim_missing">Włóż kartę SIM</string>

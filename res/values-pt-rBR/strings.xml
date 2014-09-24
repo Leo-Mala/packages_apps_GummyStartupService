@@ -15,6 +15,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Nome do Aplicativo</string>
+    <string name="product_name">Nome do Produto</string>
+    <string name="setup_welcome">Configuração de Boas-vindas</string>
+    <string name="account_name">Nome da Conta</string>
+    
     <string name="next">Próximo</string>
     <string name="continue_label">Continuar</string>
     <string name="prev">Anterior</string>
@@ -28,6 +33,7 @@
     <string name="new_account">Criar uma nova conta</string>
     <string name="skip_anyway">Pular de qualquer maneira</string>
     <string name="dont_skip">Não pular</string>
+    
     <string name="setup_complete">A instalação está completa</string>
     <string name="setup_complete_summary" product="tablet">Parabéns! Seu tablet está pronto.</string>
     <string name="setup_complete_summary" product="default">Parabéns! Seu telefone está pronto.</string>
